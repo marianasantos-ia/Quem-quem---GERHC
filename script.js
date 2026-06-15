@@ -1,6 +1,6 @@
 
 let dados=[];
-fetch('data/colaboradores.json')
+fetch('colaboradores.json')
 .then(r=>r.json())
 .then(d=>{
 dados=d;
