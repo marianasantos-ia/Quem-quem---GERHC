@@ -5,12 +5,12 @@
     "area": "GERHC",
     "email": "mateusmariano@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Gerenciar o Departamento",
+    "descricao": "Gerenciar o Departamento de Recursos Humanos",
     "iniciais": "MM"
   },
   {
     "nome": "Tania Alves Marques",
-    "cargo": "Secretaria De Gerencia",
+    "cargo": "Secretária De Gerencia",
     "area": "GERHC",
     "email": "tania@fieg.com.br",
     "entidade": "FIEG",
@@ -23,7 +23,7 @@
     "area": "Arquivo e Documentos",
     "email": "cristinasantos.sesi@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Arquivar contorlar Documentações",
+    "descricao": "Arquivar e controlar Documentações",
     "iniciais": "CD"
   },
   {
@@ -86,7 +86,7 @@
     "area": "Folha de Pagamento",
     "email": "ludimillalarissa@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Responsável por: Folha de Colaboradores SENAI",
+    "descricao": "Responsável pela Folha de Pagamento de Colaboradores SENAI",
     "iniciais": "LL"
   },
   {
@@ -95,7 +95,7 @@
     "area": "Folha de Pagamento",
     "email": "renatamedeiros@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Responsável por: Folha de Colaboradores SESI",
+    "descricao": "Responsável pela Folha de Pagamento de Colaboradores SESI",
     "iniciais": "RM"
   },
   {
@@ -104,7 +104,7 @@
     "area": "Folha de Pagamento",
     "email": "robertamarques.sesi@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Responsável por: Folha de Prestadores",
+    "descricao": "Responsável pela Folha de Pagamento de Prestadores",
     "iniciais": "RM"
   },
   {
@@ -284,7 +284,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "aline.sesi@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Responsável por: Programa Inspirar, Programa Incluir e Bolsa de Estudos",
+    "descricao": "Responsável pelos Programa Inspirar, Programa Incluir e Bolsa de Estudos",
     "iniciais": "AA"
   },
   {
@@ -293,7 +293,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "jesuitasouza@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Assitente Ações de Desenvolvimento",
+    "descricao": "Assitente Ações de Desenvolvimento",
     "iniciais": "JF"
   },
   {
@@ -302,7 +302,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "joanadorini@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Design, Comunicações e Ações de Endomarketing",
+    "descricao": "Responsável por realizar Design, Comunicações e Ações de Endomarketing",
     "iniciais": "JD"
   },
   {
@@ -311,7 +311,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "julianacosta@fieg.com.br",
     "entidade": "SESI",
-    "descricao": "Responsável por: Psicológa responsável pelo Programa Psicossocial",
+    "descricao": "Psicológa responsável pelo Programa Psicossocial",
     "iniciais": "JD"
   },
   {
@@ -320,7 +320,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "lorranebatista@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Desenvolvimento - Capacitções Externas e Bolsa de Estudos",
+    "descricao": "Responsável pelas Capacitções Externas e Bolsa de Estudos",
     "iniciais": "LB"
   },
   {
@@ -329,7 +329,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "marianasantos@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Desenvolvimento - Capacitações Internas e Incompany, Universidade Corporativa e Acompanhamento de Programas de Formação",
+    "descricao": "Responsável pelas Capacitações Internas e Incompany, Universidade Corporativa e Acompanhamento de Programas de Formação",
     "iniciais": "MA"
   },
   {
@@ -338,7 +338,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "priscillabraz@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Criação e Estruturação de novos projetos",
+    "descricao": "Responsável por Criar e Estruturar novos projetos",
     "iniciais": "PB"
   },
   {
@@ -347,7 +347,7 @@
     "area": "Desenvolvimento, Cultura e Projetos",
     "email": "priscilla@fieg.com.br",
     "entidade": "SENAI",
-    "descricao": "Responsável por: Cultura e Clima",
+    "descricao": "Responsável por ações de Cultura e Clima",
     "iniciais": "PS"
   },
   {
