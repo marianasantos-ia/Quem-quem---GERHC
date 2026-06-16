@@ -1,0 +1,479 @@
+[
+  {
+    "nome": "Mateus Mariano Gomes Borges",
+    "cargo": "Gerente De Recursos Humanos E Conhecimento - Gerhc",
+    "area": "GERHC",
+    "email": "mateusmariano@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Gerenciar o Departamento",
+    "iniciais": "MM"
+  },
+  {
+    "nome": "Tania Alves Marques",
+    "cargo": "Secretaria De Gerencia",
+    "area": "GERHC",
+    "email": "tania@fieg.com.br",
+    "entidade": "FIEG",
+    "descricao": "Secretária da Gerência",
+    "iniciais": "TA"
+  },
+  {
+    "nome": "Cristina Dos Santos Ferreira",
+    "cargo": "Assistente Administrativo",
+    "area": "Arquivo e Documentos",
+    "email": "cristinasantos.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Arquivar contorlar Documentações",
+    "iniciais": "CD"
+  },
+  {
+    "nome": "Livia Batista De Souza Reis",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Representação de RH",
+    "email": "livia@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Representação de RH - Suporte aos colaboradores da Casa da Indústria",
+    "iniciais": "LB"
+  },
+  {
+    "nome": "Yasmin Kelly Pereira Costa",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Representação de RH",
+    "email": "yasmin@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Representação de RH - Suporte aos colaboradores da Casa da Indústria",
+    "iniciais": "YK"
+  },
+  {
+    "nome": "Leticia Dourado De Oliveira",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Qualidade e Processos",
+    "email": "leticiadourado.senai@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Acompanhamento e Produção de Documentos e Processos",
+    "iniciais": "LD"
+  },
+  {
+    "nome": "Wendel Jose De Souza",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Qualidade e Processos",
+    "email": "wendel@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelo FPW",
+    "iniciais": "WJ"
+  },
+  {
+    "nome": "Teogenes Antonio Amorim De Azevedo",
+    "cargo": "Coordenador De Recursos Humanos",
+    "area": "Folha de Pagamento",
+    "email": "teogenes@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Coordenar área",
+    "iniciais": "TA"
+  },
+  {
+    "nome": "Laiane Aparecida Ferreira Dos Reis",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Folha de Pagamento",
+    "email": "laianeaparecida@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Folha de Estagiários",
+    "iniciais": "LA"
+  },
+  {
+    "nome": "Ludimilla Larissa Dos Santos",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Folha de Pagamento",
+    "email": "ludimillalarissa@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Folha de Colaboradores SENAI",
+    "iniciais": "LL"
+  },
+  {
+    "nome": "Renata Medeiros Dias",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Folha de Pagamento",
+    "email": "renatamedeiros@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Folha de Colaboradores SESI",
+    "iniciais": "RM"
+  },
+  {
+    "nome": "Roberta Marques Freitas",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Folha de Pagamento",
+    "email": "robertamarques.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Folha de Prestadores",
+    "iniciais": "RM"
+  },
+  {
+    "nome": "Apoena De Cassia Ribeiro Rocha",
+    "cargo": "Coordenador De Recursos Humanos",
+    "area": "Jornada do Talento",
+    "email": "apoenacassia@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Coordenar área",
+    "iniciais": "AD"
+  },
+  {
+    "nome": "Andrielle Freitas Carvalho",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento",
+    "email": "andriellefreitas@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nUI Rio Verde / Jataí / Mineiros",
+    "iniciais": "AF"
+  },
+  {
+    "nome": "Beatriz Santos Goncalves",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "beatrizsantos@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nCasa da Indústria e Ed. Pedro Alves",
+    "iniciais": "BS"
+  },
+  {
+    "nome": "Bruna Maria Do Prado",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "brunaprado@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nSESI Campinas / FATESG",
+    "iniciais": "BM"
+  },
+  {
+    "nome": "Fernanda Maria Moraes Duarte",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "fernandamoraes.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nSESI Canaã / SESI Planalto",
+    "iniciais": "FM"
+  },
+  {
+    "nome": "Jeniffer Leal Monteiro Martins",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "jeniffer@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nIST Alimentos / Fatec Italo Bologna / IST Automação",
+    "iniciais": "JL"
+  },
+  {
+    "nome": "Kharen Kleyslla Rodrigues Alves",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "kharen@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nSESI Clube / Teatro SESI / UI Jardim Colorado / SESI Aruanã",
+    "iniciais": "KK"
+  },
+  {
+    "nome": "Igor Barbosa Silva",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Jornada do Talento ",
+    "email": "igorbarbosa.senai@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Suporte para Analistas de Gente e Gestão",
+    "iniciais": "IB"
+  },
+  {
+    "nome": "Larissa Carvalho Ferreira",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "larissacarvalho@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nSESI Itumbiara / SENAI Itumbiara / UI Quirinópolis",
+    "iniciais": "LC"
+  },
+  {
+    "nome": "Lorena Crispim Dos Santos Sales",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "lorenacrispim@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nFATEC Roberto Mange e UI Luziânia",
+    "iniciais": "LC"
+  },
+  {
+    "nome": "Lucas Antunes Correia",
+    "cargo": "Assistente Administrativo",
+    "area": "Jornada do Talento ",
+    "email": "lucasantunes@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Suporte ",
+    "iniciais": "LA"
+  },
+  {
+    "nome": "Maria Fernanda Guimaraes Justino",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Jornada do Talento ",
+    "email": "mariafernanda@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Suporte para Analistas de Gente e Gestão",
+    "iniciais": "MF"
+  },
+  {
+    "nome": "Michelle Oliveira Viegas",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "michelleoliveira@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nSESI Jundiaí / SESI Jaiara / SST Jundiaí / SESI DAIA",
+    "iniciais": "MO"
+  },
+  {
+    "nome": "Ramilla Rizzia Quintino Da Silva",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "ramilla.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nSESI Crixás / UI Barro Alto / UI Niquelandia / UI Minaçu / UI Goianésia",
+    "iniciais": "RR"
+  },
+  {
+    "nome": "Sthefania Ferreira De Faria",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "sthefaniafaria@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nSENAI Canaã",
+    "iniciais": "SF"
+  },
+  {
+    "nome": "Tatiane Goncalves Da Silva",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "tatianegoncalves@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável pelas unidades:\nUI Catalão",
+    "iniciais": "TG"
+  },
+  {
+    "nome": "Thamara Rubia Camargo Jesus",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "thamara@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nUI Aparecida De Goiânia / UI Celso Charuri / UI Senador Canedo",
+    "iniciais": "TR"
+  },
+  {
+    "nome": "Uiles Pereira Martins",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Jornada do Talento ",
+    "email": "uilesmartins@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável pelas unidades:\nUDIGI  / CAT Goiânia / Central SST",
+    "iniciais": "UP"
+  },
+  {
+    "nome": "Amanda Leal Borges",
+    "cargo": "Coordenador De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "amandaborges@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Coordenar área",
+    "iniciais": "AL"
+  },
+  {
+    "nome": "Aline Andrade Ferreira",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "aline.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Programa Inspirar, Programa Incluir e Bolsa de Estudos",
+    "iniciais": "AA"
+  },
+  {
+    "nome": "Jesuita Ferreira De Souza",
+    "cargo": "Assistente Administrativo",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "jesuitasouza@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Assitente Ações de Desenvolvimento",
+    "iniciais": "JF"
+  },
+  {
+    "nome": "Joana Darc Vaccari Dorini",
+    "cargo": "Analista De Marketing",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "joanadorini@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Design, Comunicações e Ações de Endomarketing",
+    "iniciais": "JD"
+  },
+  {
+    "nome": "Juliana Da Costa E Silva Assis",
+    "cargo": "Analista De Gente E Gestao",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "julianacosta@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Psicológa responsável pelo Programa Psicossocial",
+    "iniciais": "JD"
+  },
+  {
+    "nome": "Lorrane Batista Monteiro",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "lorranebatista@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Desenvolvimento - Capacitções Externas e Bolsa de Estudos",
+    "iniciais": "LB"
+  },
+  {
+    "nome": "Mariana Araujo Dos Santos",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "marianasantos@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Desenvolvimento - Capacitações Internas e Incompany, Universidade Corporativa e Acompanhamento de Programas de Formação",
+    "iniciais": "MA"
+  },
+  {
+    "nome": "Priscilla Braz De Carvalho",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "priscillabraz@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Criação e Estruturação de novos projetos",
+    "iniciais": "PB"
+  },
+  {
+    "nome": "Priscilla Stefani Melo Mendonca",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Desenvolvimento, Cultura e Projetos",
+    "email": "priscilla@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Cultura e Clima",
+    "iniciais": "PS"
+  },
+  {
+    "nome": "Alana Leida Souza Castro",
+    "cargo": "Coordenador De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "alanacastro@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Coordenar área",
+    "iniciais": "AL"
+  },
+  {
+    "nome": "Andreia Goncalves De Abadia",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "andreiagoncalves@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Remunerção e Controle de MRC's",
+    "iniciais": "AG"
+  },
+  {
+    "nome": "Barbara Alves Fonseca",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "barbaraaf@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Plano de Saúde e Benefício Ifood",
+    "iniciais": "BA"
+  },
+  {
+    "nome": "Carolina Pires Dos Santos",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "carolinasantos.sesi@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Processos Seletivos e Reenquadramentos",
+    "iniciais": "CP"
+  },
+  {
+    "nome": "Nicoly Nascimento De Oliveira",
+    "cargo": "Assistente De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "nicoly@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: Plano de Saúde e Benefício Ifood",
+    "iniciais": "NN"
+  },
+  {
+    "nome": "Renata Fernandes Camargo Da Silva",
+    "cargo": "Analista De Recursos Humanos",
+    "area": "Remuneração e Benefícios",
+    "email": "renatasilva.iel@fieg.com.br",
+    "entidade": "IEL",
+    "descricao": "Responsável por: Plano de Saúde",
+    "iniciais": "RF"
+  },
+  {
+    "nome": "Marilia Lemos Da Luz",
+    "cargo": "Coordenador De Recursos Humanos",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "marilialemos@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Coordenar área",
+    "iniciais": "ML"
+  },
+  {
+    "nome": "Aline Graziela Araujo Miranda Silva",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "alinesilva@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: \nSENAI Canaã\nSESI Canaã\nInstituto de Alimentos\nSESI Planalto\nSESI Campinas\nInstituto de Automação\nFATEC Ítalo Bologna ",
+    "iniciais": "AG"
+  },
+  {
+    "nome": "Amanda De Paula Marcal",
+    "cargo": "Engenheiro De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "amandamarcal@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: Engenharia do Trabalho",
+    "iniciais": "AD"
+  },
+  {
+    "nome": "Bruna Emily Rezende Silva",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "brunasilva@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: \nSENAI Goianésia\nHotel SESI Aruanã\nCrixás \nSESI SENAI Minaçu (SAMA)\nSESI/SENAI Niquelândia \nCAT Barro alto",
+    "iniciais": "BE"
+  },
+  {
+    "nome": "Loham Andre Santos Da Silva",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "lohamandre@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: \nCasa da Indústria\nCat Goiânia \nUnidigital\nCentral SST\nPrédio Pedro Alves\nFatesg\nEscola Trindade\nEscola Jardins",
+    "iniciais": "LA"
+  },
+  {
+    "nome": "Michael Stephany Guimaraes Martins",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "michaelmartins@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: \nUI Itumbiara\nUI Rio Verde \nUI Mineiros\nUI Jataí \nUI Catalão\nSESI Rio quente\nUI Quirinópolis",
+    "iniciais": "MS"
+  },
+  {
+    "nome": "Odair Freitas Dos Santos",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "odairfreitas@fieg.com.br",
+    "entidade": "SENAI",
+    "descricao": "Responsável por: \nSESI Jaiara\nUI Luziânia\n(Escola Nova) Santo Antônio do Descoberto\nSESI Flores de Goiás\nSESI Jundiaí\nJundiaí SST\nDAIA SST\nSENAI Roberto Mange",
+    "iniciais": "OF"
+  },
+  {
+    "nome": "Rejane Pereira Gomes",
+    "cargo": "Tecnico De Seguranca Do Trabalho",
+    "area": "Saúde, Segurança e Meio Ambiente",
+    "email": "rejanegomes@fieg.com.br",
+    "entidade": "SESI",
+    "descricao": "Responsável por: UI Aparecida\nUI Celso Charuri\nSENAI Senador Canedo\nUI Jardim Colorado\nClube Ferreira Pacheco \nTeatro SESI",
+    "iniciais": "RP"
+  }
+]
