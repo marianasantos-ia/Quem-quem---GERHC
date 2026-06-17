@@ -53,7 +53,7 @@ cards.innerHTML=l.map(p=>`<div class='card'><div class='avatar' style='backgroun
 }
 function abrir(e){
 let p=dados.find(x=>x.email===e);
-perfil.innerHTML=`<h2>${formatarNome(p.nome)}</h2><h3>${p.area==='GERHC'?'GERHC':formatarNome(p.area)}</h3><p><b>${formatarNome(p.cargo)}</b></p><p>${p.resp}</p><p>✉ ${p.email}</p><p>☎ ${p.contato}</p>`;
+perfil.innerHTML=`<h2>${formatarNome(p.nome)}</h2><h3>${p.area==='GERHC'?'GERHC':formatarNome(p.area)}</h3><p><b>${formatarNome(p.cargo)}</b></p><p>${p.resp}</p><p>📧 ${p.email}</p><p>☎️ ${p.contato}</p>`;
 modal.style.display='block';
 }
 document.addEventListener('input',render);render();
