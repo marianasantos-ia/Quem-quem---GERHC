@@ -43,8 +43,19 @@ dados.forEach(p=>{
   }
 });
 
-[...new Set(dados.map(x=>x.area.trim()))].sort().forEach(a=>filtro.innerHTML+=`<option>${formatarNome(a)}</option>`);
+const areas = [...new Set(
+    dados.map(x => x.area.trim())
+)].sort();
 
+filtro.innerHTML = "<option value=''>Todas as áreas</option>";
+
+areas.forEach(area=>{
+    filtro.innerHTML += `
+        <option value="${area}">
+            ${formatarNome(area)}
+        </option>
+    `;
+});
 function formatarNome(texto){
     const minusculas=['de','da','do','das','dos','e'];
     return texto.toLowerCase().split(' ').map((p,i)=>{
@@ -55,7 +66,11 @@ function formatarNome(texto){
 
 function render(){
 let t=busca.value.toLowerCase(),a=filtro.value;
-let l=dados.filter(x=>(!a||x.area===a)&&JSON.stringify(x).toLowerCase().includes(t));
+let l=dados.filter(x=>
+    (!a || x.area.trim()===a.trim())
+    &&
+    JSON.stringify(x).toLowerCase().includes(t)
+);
 cont.innerText=`Total: ${l.length} colaboradores`;
 cards.innerHTML=l.map(p=>`<div class='card'><div class='avatar' style='background:${cores[p.entidade]||'#023d6e'}'>${p.iniciais}</div><div class='nome'>${formatarNome(p.nome)}</div><div class='area'>${p.area==='GERHC'?'GERHC':formatarNome(p.area)}</div><div class='cargo'>${formatarNome(p.cargo)}</div><button class='btn' onclick="abrir('${p.email}')"> Ver Perfil</button></div>`).join('');
 }
